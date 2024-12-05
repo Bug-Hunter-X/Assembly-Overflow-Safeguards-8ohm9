@@ -1,0 +1,1 @@
+mov eax, [ebx + 4*ecx]
